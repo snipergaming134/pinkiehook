@@ -12,4 +12,4 @@ https://dsc.gg/rosnehook
 
 Open a terminal window and enter the following command:
 
-    bash <(wget -qO- https://raw.githubusercontent.com/snipergaming134/One-in-all-pinkiehookhook-install/master/install-all)
+    bash <(wget -qO- https://raw.githubusercontent.com/snipergaming134/One-in-all-pinkiehook-install/master/install-all)
