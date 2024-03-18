@@ -3,7 +3,7 @@
 set -e
 
 #
-# Build rosnehook
+# Build pinkiehook
 #
 
 ./scripts/updater false true true
