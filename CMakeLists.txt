@@ -54,7 +54,7 @@ endif()
 
 set(EnableGUI 1 CACHE BOOL "Enable GUI")
 set(EnableIPC 1 CACHE BOOL "Enable IPC")
-set(DataPath "/opt/cathook/data" CACHE FILEPATH "Data location")
+set(DataPath "/opt/pinkiehook/data" CACHE FILEPATH "Data location")
 set(VACBypass 1 CACHE BOOL "Textmode VAC bypass")
 set(EnableTextmodeStdin 0 CACHE BOOL "Textmode Stdin -> Console bridge (EXPERIMENTAL)")
 set(EnableWarnings 0 CACHE BOOL "Enable compile warnings")
